@@ -74,5 +74,16 @@ background-position: left 20px top 30px;
 
 }
 .ispaniya{
-  
+  min-height: 100vh;
+  background-image: url("spain.png"),
+  linear-gradient(to bottom,
+  red 33.3%,
+  yellow 33.3%,
+  yellow 66.6%,
+  red 66.6%
+
+  );
+background-size: 200px,100%;
+background-repeat: no-repeat;
+background-position: left 200px center,center;
 }
